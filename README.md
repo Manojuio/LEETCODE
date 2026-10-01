@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manojuio/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manojuio/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
+| [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Tree
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manojuio/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0806-number-of-lines-to-write-string](https://github.com/Manojuio/LEETCODE/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Manojuio/LEETCODE/tree/master/0049-group-anagrams) |
 | [0806-number-of-lines-to-write-string](https://github.com/Manojuio/LEETCODE/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
 ## Sorting
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Stack
 |  |
