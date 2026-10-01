@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Manojuio/LEETCODE/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manojuio/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manojuio/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manojuio/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 ## DP on Trees
 |  |
@@ -27,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Manojuio/LEETCODE/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
@@ -56,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
