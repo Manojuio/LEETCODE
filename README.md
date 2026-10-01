@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Manojuio/LEETCODE/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Manojuio/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Manojuio/LEETCODE/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Meet in the Middle
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Greedy
+|  |
+| ------- |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Manojuio/LEETCODE/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 <!---LeetCode Topics End-->
