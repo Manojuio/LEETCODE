@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Manojuio/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manojuio/LEETCODE/tree/master/0508-most-frequent-subtree-sum) |
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Tree
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/Manojuio/LEETCODE/tree/master/0896-monotonic-array) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Manojuio/LEETCODE/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -56,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Stack
 |  |
