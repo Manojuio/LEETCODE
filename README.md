@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Manojuio/LEETCODE/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
