@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Manojuio/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Manojuio/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Manojuio/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
