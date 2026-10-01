@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manojuio/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manojuio/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1598-crawler-log-folder](https://github.com/Manojuio/LEETCODE/tree/master/1598-crawler-log-folder) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -45,9 +46,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Manojuio/LEETCODE/tree/master/0049-group-anagrams) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -78,4 +81,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manojuio/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+## Two Pointers
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
