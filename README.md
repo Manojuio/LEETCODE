@@ -112,9 +112,18 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Array
 |  |
 | ------- |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Math
 |  |
 | ------- |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
+## Hash Table
+|  |
+| ------- |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
+## Counting
+|  |
+| ------- |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
 <!---LeetCode Topics End-->
