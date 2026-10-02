@@ -106,3 +106,15 @@ Created with passion for problem solving, clean code, and continuous learning.
 <p align="center">
   <b>Keep solving. Keep improving. Keep coding. 💪</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
+## Math
+|  |
+| ------- |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
+<!---LeetCode Topics End-->
