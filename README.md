@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Manojuio/LEETCODE/tree/master/0049-group-anagrams) |
 | [0806-number-of-lines-to-write-string](https://github.com/Manojuio/LEETCODE/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Manojuio/LEETCODE/tree/master/0819-most-common-word) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0022-generate-parentheses) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Manojuio/LEETCODE/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Meet in the Middle
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Manojuio/LEETCODE/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
