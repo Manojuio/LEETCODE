@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Manojuio/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manojuio/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manojuio/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manojuio/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Design
 |  |
 | ------- |
