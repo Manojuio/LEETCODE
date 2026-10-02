@@ -113,6 +113,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Manojuio/LEETCODE/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Math
 |  |
@@ -122,6 +123,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Manojuio/LEETCODE/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
 |  |
 | ------- |
