@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-100%25-ED8B00?style=for-the-badge&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Problems-20%2B-4E9A06?style=for-the-badge" alt="20+ Problems" />
+  
   <img src="https://img.shields.io/badge/Status-Active-0A66C2?style=for-the-badge" alt="Active" />
 </p>
 
