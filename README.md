@@ -104,4 +104,8 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Manojuio/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
