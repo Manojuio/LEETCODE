@@ -1,27 +1,34 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> maxPrimes(int n, int s) {
         List<Integer> ans = new ArrayList<>();
-        long sum = 0;
-        for (int i = 2; i <=n; i++) {
-            if (f(i)) {
-                if(sum+i<=s){
-                ans.add(i);
-                sum+=i;
-                }
-                else{
-                    break;
+        boolean[] prime = new boolean[n + 1];
+
+        // Step 1: Assume every number >= 2 is prime
+        Arrays.fill(prime, true);
+        prime[0] = false;
+        if (n >= 1) prime[1] = false;
+
+        // Step 2: Mark composite numbers
+        for (int p = 2; p * p <= n; p++) {
+            if (prime[p]) {
+                for (int j = p * p; j <= n; j += p) {
+                    prime[j] = false;
                 }
             }
-        
         }
-        return ans;
 
-    }
-       private boolean f(int j){
-        for(int i= 2;i*i<=j;i++){
-            if(j%i==0) return false;
+        long sum = 0;
+        for (int i = 2; i <= n; i++) {
+            if (prime[i]) {
+                if (sum + i > s) break;
+
+                ans.add(i);
+                sum += i;
+            }
         }
-        return true;
-       } 
-    
+
+        return ans;
+    }
 }
