@@ -39,6 +39,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -55,6 +56,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -98,6 +100,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
