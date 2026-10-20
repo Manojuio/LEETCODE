@@ -3,15 +3,12 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         boolean[][] v = new boolean[m][n];
-        Queue<int[]> q = new ArrayDeque<>();
-        q.offer(new int[] { 0, 0 });
+        
         v[0][0] = true;
-        int[] last = new int[] { 0, 0 };
-        while (!q.isEmpty()) {
-            int[] curr = q.poll();
-            int r = curr[0];
-            int c = curr[1];
-            last = curr;
+       int r = 0;
+       int c = 0;
+        while (true) {
+           
             int nr = r;
             int nc = c;
             if (grid[r][c] == 'L')
@@ -22,14 +19,15 @@ class Solution {
                 nr--;
             if (grid[r][c] == 'D')
                 nr++;
-            if (nr >= 0 && nr < m && nc >= 0 && nc < n && !v[nr][nc]) {
-                v[nr][nc] = true;
-                q.offer(new int[] { nr, nc });
-            } else {
-                return last;
+            if (nr < 0 || nr>=m || nc < 0 || nc >=n || v[nr][nc]) {
+                
+                return new int[] { r, c };
             }
+            r = nr;
+            c = nc;
+            v[r][c]=true;
 
         }
-        return last;
+        
     }
 }
