@@ -50,6 +50,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -73,6 +74,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
 ## Dynamic Programming
 |  |
 | ------- |
