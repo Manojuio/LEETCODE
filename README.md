@@ -75,6 +75,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Manojuio/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
