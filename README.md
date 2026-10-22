@@ -134,9 +134,14 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Linked List
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Manojuio/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manojuio/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manojuio/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Manojuio/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
