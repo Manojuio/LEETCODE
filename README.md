@@ -58,6 +58,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manojuio/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3516-find-closest-person](https://github.com/Manojuio/LEETCODE/tree/master/3516-find-closest-person) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Manojuio/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Manojuio/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
