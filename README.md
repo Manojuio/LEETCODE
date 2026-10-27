@@ -95,6 +95,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manojuio/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Manojuio/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Manojuio/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -206,4 +207,8 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manojuio/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
