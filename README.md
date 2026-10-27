@@ -158,6 +158,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -187,13 +188,19 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Tree
 |  |
 | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
