@@ -159,6 +159,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -167,6 +168,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -186,10 +188,12 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
