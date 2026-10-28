@@ -48,6 +48,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Manojuio/LEETCODE/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Manojuio/LEETCODE/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -99,6 +100,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Manojuio/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Manojuio/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -211,4 +214,8 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manojuio/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
