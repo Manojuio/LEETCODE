@@ -92,6 +92,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1021-remove-outermost-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manojuio/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Manojuio/LEETCODE/tree/master/1791-find-center-of-star-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -227,4 +229,12 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Manojuio/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
