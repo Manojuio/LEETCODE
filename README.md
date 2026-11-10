@@ -61,6 +61,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Manojuio/LEETCODE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2396-strictly-palindromic-number](https://github.com/Manojuio/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manojuio/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -102,6 +103,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Manojuio/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manojuio/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Manojuio/LEETCODE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3693-climbing-stairs-ii](https://github.com/Manojuio/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Manojuio/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Manojuio/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
