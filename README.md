@@ -48,6 +48,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Manojuio/LEETCODE/tree/master/3693-climbing-stairs-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manojuio/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -67,6 +68,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/Manojuio/LEETCODE/tree/master/3516-find-closest-person) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manojuio/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Manojuio/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manojuio/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Manojuio/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
