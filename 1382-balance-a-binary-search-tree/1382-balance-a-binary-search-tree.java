@@ -26,8 +26,8 @@ class Solution {
         inorder(n.right);
 
     }
-    TreeNode bb(int i,int j ){
-        if(i>j) return null;
+    TreeNode bb(int i,int j ){//build tree 
+        if(i>j) return null;//base case
         int m = (i+j)/2;
         TreeNode r = new TreeNode(ls.get(m));
         r.left = bb(i,m-1);
