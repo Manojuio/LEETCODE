@@ -97,6 +97,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manojuio/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -150,6 +151,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manojuio/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Graph Theory
