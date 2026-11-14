@@ -149,6 +149,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manojuio/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Graph Theory
@@ -182,6 +183,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -214,6 +216,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -222,12 +225,14 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Manojuio/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -273,4 +278,8 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
