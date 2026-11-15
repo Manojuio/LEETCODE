@@ -42,6 +42,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -62,6 +63,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Manojuio/LEETCODE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2396-strictly-palindromic-number](https://github.com/Manojuio/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -107,6 +109,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Manojuio/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manojuio/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Manojuio/LEETCODE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3693-climbing-stairs-ii](https://github.com/Manojuio/LEETCODE/tree/master/3693-climbing-stairs-ii) |
@@ -279,6 +282,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
