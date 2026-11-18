@@ -100,6 +100,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1021-remove-outermost-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Manojuio/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manojuio/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
