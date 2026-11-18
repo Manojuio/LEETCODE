@@ -46,6 +46,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Manojuio/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -256,6 +257,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Bit Manipulation
 |  |
 | ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Manojuio/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
