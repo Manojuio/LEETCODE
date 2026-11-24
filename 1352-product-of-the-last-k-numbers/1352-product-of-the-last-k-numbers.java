@@ -1,27 +1,25 @@
 class ProductOfNumbers {
-   int[] nums;
-   int i;
+    List<Integer> prefix;
+
     public ProductOfNumbers() {
-        nums  = new int[40001];
-        int i = 0;
+        prefix = new ArrayList<>();
+        prefix.add(1);
     }
-    
+
     public void add(int num) {
-        nums[i++]=num;
-    }
-    
-    public int getProduct(int k) {
-        int  p =1;
-        for(int j = i-k;j<i;j++){
-            p *= nums[j];
+        if (num == 0) {
+            prefix = new ArrayList<>();
+            prefix.add(1);
+        } else {
+            prefix.add(prefix.get(prefix.size() - 1) * num);
         }
-        return p;
+    }
+
+    public int getProduct(int k) {
+        int n = prefix.size();
+        if (k >= n) {
+            return 0;
+        }
+        return prefix.get(n - 1) / prefix.get(n - 1 - k);
     }
 }
-
-/**
- * Your ProductOfNumbers object will be instantiated and called as such:
- * ProductOfNumbers obj = new ProductOfNumbers();
- * obj.add(num);
- * int param_2 = obj.getProduct(k);
- */
