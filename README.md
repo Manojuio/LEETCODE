@@ -39,6 +39,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manojuio/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -151,6 +152,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -319,4 +321,8 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojuio/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
