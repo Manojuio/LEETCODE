@@ -45,6 +45,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -71,6 +72,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manojuio/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -307,6 +309,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojuio/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -327,4 +330,12 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
