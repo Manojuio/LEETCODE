@@ -51,6 +51,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manojuio/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manojuio/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -95,6 +96,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojuio/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -162,6 +164,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Manojuio/LEETCODE/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -206,6 +209,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manojuio/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Manojuio/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Manojuio/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +289,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
