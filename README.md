@@ -125,6 +125,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0032-longest-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Manojuio/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manojuio/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
@@ -159,6 +160,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -338,4 +340,8 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
