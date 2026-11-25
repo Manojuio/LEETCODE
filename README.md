@@ -48,6 +48,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manojuio/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manojuio/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -187,6 +188,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Manojuio/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Manojuio/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
@@ -235,6 +237,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -349,4 +352,20 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
