@@ -1,60 +1,72 @@
-import java.util.*;
-
 class Solution {
-    int[] parent, rank;
+    class Ds {
+        int[] r;
+        int[] p;
+
+        Ds(int n) {
+          r = new int[n];
+        p = new int[n];
+            for (int i = 0; i < n; i++) {
+                p[i] = i;
+                r[i] = 0;
+            }
+        }
+        int fup(int node){
+            if(p[node]==node)return node;
+            return p[node]= fup(p[node]);
+        }
+        void unionofu(int u,int v){
+            int pu = fup(u);
+            int pv = fup(v);
+            if (pu == pv) return;
+            if(r[pu]>r[pv]){
+                p[pv] =pu;
+            }
+            else if(r[pu]<r[pv]){
+                p[pu] =pv;
+            }
+            else{
+                p[pv]=pu;
+                r[pu]++;
+            }
+        }
+    }
 
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
-        int totalEdges = n * (n - 1) / 2;
-        int[][] edges = new int[totalEdges][3];
-
-        // 1. Store all edges as [u, v, dist]
-        int idx = 0;
+        int te = n * (n - 1) / 2;
+        int k = 0;
+        int[][] e = new int[te][3];
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                int dist = Math.abs(points[i][0] - points[j][0]) + 
-                           Math.abs(points[i][1] - points[j][1]);
-                edges[idx++] = new int[]{i, j, dist};
+                int x = points[i][0];
+                int y = points[i][1];
+                int a = points[j][0];
+                int b = points[j][1];
+                int d = Math.abs(x - a) + Math.abs(y - b);
+                e[k][0] = i;
+                e[k][1] = j;
+                e[k][2] = d;
+                k++;
             }
         }
+        Arrays.sort(e, (a, b) -> Integer.compare(a[2], b[2]));
+        int ans = 0;
+        int eu = 0;
+        Ds ds = new Ds(n);
 
-        // 2. Sort edges by distance
-        Arrays.sort(edges, (a, b) -> a[2] - b[2]);
-
-        // 3. Initialize DSU arrays
-        parent = new int[n];
-        rank = new int[n];
-        for (int i = 0; i < n; i++) parent[i] = i;
-
-        // 4. Kruskal's loop
-        int mstCost = 0, edgesUsed = 0;
-        for (int[] e : edges) {
-            if (union(e[0], e[1])) {
-                mstCost += e[2];
-                edgesUsed++;
-                if (edgesUsed == n - 1) break; // Early exit once MST is complete
-            }
+        for(int i =0;i<e.length;i++ ){
+                int u = e[i][0];
+                int v = e[i][1];
+                int c = e[i][2];
+                if(ds.fup(u)!=ds.fup(v)){
+                        ds.unionofu(u,v);
+                        ans+=c;
+                        eu++;
+                        if(eu==n-1)break;
+                }
         }
-        return mstCost;
-    }
+        return ans;
 
-    private int find(int x) {
-        if (parent[x] != x) parent[x] = find(parent[x]);
-        return parent[x];
-    }
-
-    private boolean union(int u, int v) {
-        int pu = find(u), pv = find(v);
-        if (pu == pv) return false;
-
-        if (rank[pu] < rank[pv]) {
-            parent[pu] = pv;
-        } else if (rank[pv] < rank[pu]) {
-            parent[pv] = pu;
-        } else {
-            parent[pv] = pu;
-            rank[pu]++;
-        }
-        return true;
     }
 }
