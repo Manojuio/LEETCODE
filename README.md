@@ -49,6 +49,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manojuio/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manojuio/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manojuio/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -119,6 +120,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1021-remove-outermost-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Manojuio/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manojuio/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Manojuio/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Manojuio/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manojuio/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -331,6 +333,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manojuio/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojuio/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
