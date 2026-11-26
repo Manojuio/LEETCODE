@@ -83,6 +83,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [2396-strictly-palindromic-number](https://github.com/Manojuio/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manojuio/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojuio/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3360-stone-removal-game](https://github.com/Manojuio/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Manojuio/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/Manojuio/LEETCODE/tree/master/3516-find-closest-person) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -212,6 +213,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [2181-merge-nodes-in-between-zeros](https://github.com/Manojuio/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Manojuio/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3360-stone-removal-game](https://github.com/Manojuio/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
 |  |
 | ------- |
