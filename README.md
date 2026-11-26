@@ -189,6 +189,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Manojuio/LEETCODE/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manojuio/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Manojuio/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Manojuio/LEETCODE/tree/master/1791-find-center-of-star-graph) |
@@ -224,6 +225,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manojuio/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manojuio/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -235,6 +237,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/Manojuio/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Manojuio/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manojuio/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manojuio/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -243,6 +246,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0547-number-of-provinces](https://github.com/Manojuio/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Manojuio/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Manojuio/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manojuio/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
