@@ -39,6 +39,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manojuio/LEETCODE/tree/master/0275-h-index-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manojuio/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -130,6 +131,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manojuio/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Manojuio/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
@@ -342,6 +344,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojuio/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
