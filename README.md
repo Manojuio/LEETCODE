@@ -65,6 +65,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojuio/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Manojuio/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Manojuio/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Manojuio/LEETCODE/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Manojuio/LEETCODE/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Manojuio/LEETCODE/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -140,6 +141,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Manojuio/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Manojuio/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manojuio/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Manojuio/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manojuio/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Manojuio/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
