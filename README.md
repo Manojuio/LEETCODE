@@ -50,6 +50,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Manojuio/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Manojuio/LEETCODE/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manojuio/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manojuio/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -82,6 +83,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manojuio/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Manojuio/LEETCODE/tree/master/1641-count-sorted-vowel-strings) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Manojuio/LEETCODE/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Manojuio/LEETCODE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2396-strictly-palindromic-number](https://github.com/Manojuio/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Manojuio/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -162,6 +164,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/Manojuio/LEETCODE/tree/master/0275-h-index-ii) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Manojuio/LEETCODE/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Manojuio/LEETCODE/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
@@ -171,6 +174,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Manojuio/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Manojuio/LEETCODE/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manojuio/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manojuio/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -188,6 +192,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | [0678-valid-parenthesis-string](https://github.com/Manojuio/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojuio/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manojuio/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Manojuio/LEETCODE/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manojuio/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manojuio/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manojuio/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -309,6 +314,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Manojuio/LEETCODE/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Manojuio/LEETCODE/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Manojuio/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
