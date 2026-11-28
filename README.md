@@ -41,6 +41,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 | ------- |
 | [0001-two-sum](https://github.com/Manojuio/LEETCODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/Manojuio/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manojuio/LEETCODE/tree/master/0275-h-index-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manojuio/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -102,6 +103,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manojuio/LEETCODE/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Manojuio/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -172,6 +174,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Manojuio/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manojuio/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
