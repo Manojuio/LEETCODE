@@ -39,6 +39,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manojuio/LEETCODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Manojuio/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0274-h-index](https://github.com/Manojuio/LEETCODE/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manojuio/LEETCODE/tree/master/0275-h-index-ii) |
@@ -100,6 +101,7 @@ Created with passion for problem solving, clean code, and continuous learning.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manojuio/LEETCODE/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Manojuio/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Manojuio/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Manojuio/LEETCODE/tree/master/1512-number-of-good-pairs) |
